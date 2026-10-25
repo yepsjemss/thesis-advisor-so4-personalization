@@ -1,0 +1,776 @@
+{
+  "revision": "checklist-review-2026-10-13-v1",
+  "curricula": {
+    "CPE_ID122": {
+      "source": "CPE ID 122 CHECKLIST.pdf",
+      "source_pages": 2,
+      "course_rows": 103,
+      "typed_relationships": 75,
+      "corrected_courses": [
+        "ENGPHYS",
+        "ENGDATA",
+        "REMETHS",
+        "LBYCPO1"
+      ],
+      "added_courses": [],
+      "requires_verification": {
+        "LBYME1C": [
+          "Checklist p. 1 shows prerequisite notation '2' without a specified course; adviser verification is required."
+        ]
+      },
+      "unresolved_references": []
+    },
+    "CPE_ID123": {
+      "source": "CPE ID 123 CHECKLIST.pdf",
+      "source_pages": 2,
+      "course_rows": 103,
+      "typed_relationships": 81,
+      "corrected_courses": [
+        "ENGPHYS",
+        "ENGDATA",
+        "LBYCPO1"
+      ],
+      "added_courses": [
+        "LCC..01",
+        "LCC..02",
+        "LCC..03",
+        "LCC..05",
+        "LCC..06",
+        "LCC..07",
+        "LCC..08",
+        "LCC..10",
+        "LCC..11",
+        "LCC..12",
+        "LCC..13",
+        "LCC..14",
+        "LCC..15",
+        "PE1CRDO",
+        "PE2FTEX",
+        "LCC..04",
+        "LCC..09"
+      ],
+      "requires_verification": {
+        "LCC..01": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..02": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..03": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..05": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..06": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..07": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LBYME1C": [
+          "Checklist p. 1 shows prerequisite notation '2' without a specified course; adviser verification is required."
+        ],
+        "LCC..08": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "PETHREE": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser.",
+          "Checklist references courses not listed in this curriculum: PE1, PE2. The references are preserved literally; do not assume equivalent course codes."
+        ],
+        "PETHFOUR": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser.",
+          "Checklist references courses not listed in this curriculum: PE1, PE2, PE3. The references are preserved literally; do not assume equivalent course codes."
+        ],
+        "LCC..10": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "REMETHS": [
+          "Checklist references courses not listed in this curriculum: GEPCOMM. The references are preserved literally; do not assume equivalent course codes."
+        ],
+        "LCC..11": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..12": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "ENGTREP": [
+          "Checklist p. 2 shows prerequisite notation 'H' without a specified course; adviser verification is required."
+        ],
+        "LCC..13": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..14": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..15": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ]
+      },
+      "unresolved_references": [
+        "GEPCOMM",
+        "PE1",
+        "PE2",
+        "PE3"
+      ]
+    },
+    "CPE_ID124": {
+      "source": "CPE ID 124 CHECKLIST.pdf",
+      "source_pages": 2,
+      "course_rows": 103,
+      "typed_relationships": 81,
+      "corrected_courses": [
+        "ENGPHYS",
+        "ENGDATA",
+        "LBYCPO1"
+      ],
+      "added_courses": [
+        "LCC..01",
+        "LCC..02",
+        "LCC..03",
+        "LCC..05",
+        "LCC..06",
+        "LCC..07",
+        "LCC..08",
+        "LCC..09",
+        "LCC..10",
+        "LCC..11",
+        "LCC..12",
+        "LCC..13",
+        "LCC..14",
+        "LCC..15",
+        "PE1CRDO",
+        "PE2FTEX",
+        "LCC..04"
+      ],
+      "requires_verification": {
+        "LCC..01": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..02": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..03": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..05": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..06": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..07": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LBYME1C": [
+          "Checklist p. 1 shows prerequisite notation '2' without a specified course; adviser verification is required."
+        ],
+        "LCC..08": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "PETHREE": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser.",
+          "Checklist references courses not listed in this curriculum: PE1, PE2. The references are preserved literally; do not assume equivalent course codes."
+        ],
+        "LCC..09": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "PETHFOUR": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser.",
+          "Checklist references courses not listed in this curriculum: PE1, PE2, PE3. The references are preserved literally; do not assume equivalent course codes."
+        ],
+        "LCC..10": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "REMETHS": [
+          "Checklist references courses not listed in this curriculum: GEPCOMM. The references are preserved literally; do not assume equivalent course codes."
+        ],
+        "LCC..11": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..12": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "ENGTREP": [
+          "Checklist p. 2 shows prerequisite notation 'H' without a specified course; adviser verification is required."
+        ],
+        "LCC..13": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..14": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..15": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ]
+      },
+      "unresolved_references": [
+        "GEPCOMM",
+        "PE1",
+        "PE2",
+        "PE3"
+      ]
+    },
+    "CPE_ID125": {
+      "source": "CPE ID 125 CHECKLIST.pdf",
+      "source_pages": 2,
+      "course_rows": 103,
+      "typed_relationships": 82,
+      "corrected_courses": [
+        "ENGPHS1",
+        "ENGDATA",
+        "PETHREE",
+        "PEDFOUR",
+        "LBYCPO2"
+      ],
+      "added_courses": [
+        "LCC..01",
+        "LCC..02",
+        "LCC..03",
+        "LCC..05",
+        "LCC..06",
+        "LCC..07",
+        "LCC..08",
+        "LCC..09",
+        "LCC..10",
+        "LCC..11",
+        "LCC..12",
+        "LCC..13",
+        "LCC..14",
+        "LCC..15",
+        "PE1CRDO",
+        "PE2FTEX",
+        "LCC..04"
+      ],
+      "requires_verification": {
+        "LCC..01": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..02": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..03": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..05": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..06": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..07": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LBYME1C": [
+          "Checklist p. 1 shows prerequisite notation '2' without a specified course; adviser verification is required."
+        ],
+        "LCC..08": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "PETHREE": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..09": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "PEDFOUR": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..10": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "REMETHS": [
+          "Checklist references courses not listed in this curriculum: GEPCOMM. The references are preserved literally; do not assume equivalent course codes."
+        ],
+        "LCC..11": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..12": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "ENGTREP": [
+          "Checklist p. 2 shows prerequisite notation 'H' without a specified course; adviser verification is required."
+        ],
+        "LCC..13": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..14": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..15": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ]
+      },
+      "unresolved_references": [
+        "GEPCOMM"
+      ]
+    },
+    "ECE_ID122": {
+      "source": "ECE ID 122 CHECKLIST.pdf",
+      "source_pages": 2,
+      "course_rows": 102,
+      "typed_relationships": 85,
+      "corrected_courses": [
+        "ELECEN2",
+        "MATHADV",
+        "CIRLOGI",
+        "TRONIC2",
+        "SAS2000",
+        "FEECONS",
+        "LBYEC3L",
+        "COMMANA",
+        "LBYEC3D",
+        "LBYEC3E",
+        "TRONIC3",
+        "LBYEC3H",
+        "TRANSIL",
+        "LBYEC3I",
+        "THSCC1A",
+        "LBYEC4B",
+        "MATSENG"
+      ],
+      "added_courses": [
+        "CALENG3",
+        "DATAENG",
+        "ELECEN1",
+        "ELECMG1",
+        "GEARTAP",
+        "GEDANCE",
+        "GEFTWEL",
+        "GELECAH",
+        "GEPCOMM",
+        "GEUSELF",
+        "LASARE2",
+        "LBYEC2D",
+        "LBYEC2F",
+        "LBYEC2G",
+        "LBYEC2H",
+        "LBYEC2I",
+        "LBYEC2J",
+        "LCFAITH",
+        "LCLSTWO",
+        "TRONIC1"
+      ],
+      "requires_verification": {
+        "SEMSECE": [
+          "Checklist p. 2 shows prerequisite notation 'S' without a specified course; adviser verification is required."
+        ]
+      },
+      "unresolved_references": []
+    },
+    "ECE_ID123": {
+      "source": "ECE ID 123 CHECKLIST.pdf",
+      "source_pages": 2,
+      "course_rows": 102,
+      "typed_relationships": 91,
+      "corrected_courses": [
+        "DATAENG",
+        "LBYEC2I",
+        "LBYEC2J",
+        "FEECONS",
+        "LBYEC3L",
+        "COMMANA",
+        "LBYEC3D",
+        "LBYEC3E",
+        "TRONIC3",
+        "LBYEC3H",
+        "TRANSIL",
+        "LBYEC3I",
+        "THSCC1A",
+        "LBYEC4B",
+        "MATSENG"
+      ],
+      "added_courses": [
+        "LCC..01",
+        "LCC..02",
+        "LCC..03",
+        "LCC..04",
+        "LCC..05",
+        "LCC..06",
+        "LCC..07",
+        "LCC..08",
+        "LCC..09",
+        "LCC..10",
+        "LCC..11",
+        "LCC..12",
+        "LCC..13",
+        "LCC..14",
+        "LCC..15",
+        "PE1CRDO",
+        "PE2FTEX"
+      ],
+      "requires_verification": {
+        "LCC..01": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..02": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..03": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..04": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..05": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..06": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..07": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..08": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..09": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "PE2FTEX": [
+          "Checklist references courses not listed in this curriculum: PE1. The references are preserved literally; do not assume equivalent course codes."
+        ],
+        "LCC..10": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..11": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "PETHREE": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser.",
+          "Checklist references courses not listed in this curriculum: PE1, PE2. The references are preserved literally; do not assume equivalent course codes."
+        ],
+        "PETFOUR": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser.",
+          "Checklist references courses not listed in this curriculum: PE1, PE2, PE3. The references are preserved literally; do not assume equivalent course codes."
+        ],
+        "LCC..12": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..13": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "SEMSECE": [
+          "Checklist p. 2 shows prerequisite notation 'S' without a specified course; adviser verification is required."
+        ],
+        "LCC..14": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..15": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ]
+      },
+      "unresolved_references": [
+        "PE1",
+        "PE2",
+        "PE3"
+      ]
+    },
+    "ECE_ID124": {
+      "source": "ECE ID 124 CHECKLIST.pdf",
+      "source_pages": 3,
+      "course_rows": 102,
+      "typed_relationships": 85,
+      "corrected_courses": [
+        "CALENG3",
+        "ELECEN1",
+        "LBYEC2I",
+        "LBYEC2J",
+        "FEECONS",
+        "LBYEC3L",
+        "COMMANA",
+        "LBYEC3D",
+        "LBYEC3E",
+        "TRONIC3",
+        "LBYEC3H",
+        "TRANSIL",
+        "LBYEC3I",
+        "THSCC1A",
+        "LBYEC4B",
+        "MATSENG"
+      ],
+      "added_courses": [
+        "DATAENG",
+        "LBYEC2D",
+        "LCC..01",
+        "LCC..02",
+        "LCC..03",
+        "LCC..04",
+        "LCC..05",
+        "LCC..06",
+        "LCC..07",
+        "LCC..08",
+        "LCC..09",
+        "LCC..10",
+        "LCC..11",
+        "LCC..12",
+        "LCC..13",
+        "LCC..14",
+        "LCC..15",
+        "PE1CRDO",
+        "PE2FTEX"
+      ],
+      "requires_verification": {
+        "LCC..07": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..01": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..08": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..02": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..03": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..04": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..05": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..06": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..09": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..10": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..11": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "PETHREE": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "PETFOUR": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..12": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..13": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..14": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..15": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ]
+      },
+      "unresolved_references": []
+    },
+    "ECE_ID125": {
+      "source": "ECE ID 125 CHECKLIST.pdf",
+      "source_pages": 2,
+      "course_rows": 102,
+      "typed_relationships": 86,
+      "corrected_courses": [
+        "DATAENG",
+        "LBYEC2I",
+        "LBYEC2J",
+        "FEECONS",
+        "LBYEC3L",
+        "COMMANA",
+        "LBYEC3D",
+        "LBYEC3E",
+        "TRONIC3",
+        "LBYEC3H",
+        "TRANSIL",
+        "LBYEC3I",
+        "THSCC1A",
+        "LBYEC4B",
+        "MATSENG"
+      ],
+      "added_courses": [
+        "LCC..01",
+        "LCC..02",
+        "LCC..03",
+        "LCC..04",
+        "LCC..05",
+        "LCC..06",
+        "LCC..07",
+        "LCC..08",
+        "LCC..09",
+        "LCC..10",
+        "LCC..11",
+        "LCC..12",
+        "LCC..13",
+        "LCC..14",
+        "LCC..15",
+        "PE1CRDO",
+        "PE2FTEX"
+      ],
+      "requires_verification": {
+        "LCC..01": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..02": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..03": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..04": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..05": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..06": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..07": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..08": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..09": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..10": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..11": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "PETHREE": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "PETFOUR": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..12": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..13": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..14": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..15": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ]
+      },
+      "unresolved_references": []
+    },
+    "EES_ID125": {
+      "source": "EES ID 125 CHECKLIST.pdf",
+      "source_pages": 2,
+      "course_rows": 101,
+      "typed_relationships": 79,
+      "corrected_courses": [
+        "ENGPHS1",
+        "PETHREE",
+        "EECKTS1",
+        "PEDFOUR",
+        "ENGDATA",
+        "EELECMG",
+        "EEMACH1",
+        "LBYEC3B",
+        "REMETEE",
+        "EEFEEDS",
+        "MATSENG",
+        "PRCGEEE"
+      ],
+      "added_courses": [
+        "LCC..01",
+        "LCC..02",
+        "LCC..03",
+        "LCC..04",
+        "LCC..05",
+        "LCC..06",
+        "LCC..07",
+        "LCC..08",
+        "LCC..09",
+        "LCC..10",
+        "LCC..11",
+        "LCC..12",
+        "LCC..13",
+        "LCC..14",
+        "LCC..15",
+        "PE1CRDO",
+        "PE2FTEX"
+      ],
+      "requires_verification": {
+        "LCC..01": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..02": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..03": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..04": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..05": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..06": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..07": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "PETHREE": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..08": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "PEDFOUR": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..09": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..10": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..11": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LBYEE2E": [
+          "Checklist references courses not listed in this curriculum: NUMMETS. The references are preserved literally; do not assume equivalent course codes."
+        ],
+        "EELAWCP": [
+          "Checklist references courses not listed in this curriculum: GEETHIC. The references are preserved literally; do not assume equivalent course codes."
+        ],
+        "LCC..12": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "REMETEE": [
+          "Checklist references courses not listed in this curriculum: GEPCOMM. The references are preserved literally; do not assume equivalent course codes."
+        ],
+        "FLUMECH": [
+          "Checklist references courses not listed in this curriculum: ENGPHYS. The references are preserved literally; do not assume equivalent course codes."
+        ],
+        "LCC..13": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..14": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ],
+        "LCC..15": [
+          "The checklist uses a placeholder/generic course. Confirm the actual course with your adviser."
+        ]
+      },
+      "unresolved_references": [
+        "ENGPHYS",
+        "GEETHIC",
+        "GEPCOMM",
+        "NUMMETS"
+      ]
+    }
+  },
+  "normalization_correction": "Four printed LCC codes containing a space/trailing parenthesis were recovered during the user-requested core-subject substitution."
+}

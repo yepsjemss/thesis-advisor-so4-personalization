@@ -1,0 +1,350 @@
+{
+  "archive_sha256": "cd7429812646ad5ad2ef2ab05422bf6d2eb2b96f278a790510f130b1d0d00101",
+  "source": "https://github.com/tayshbokki/thesis_academic_advisor",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "sha256": "1a1dbe176bc233b499d35a57db7513f2941c99ab9759f177830c9149be99005b"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "f82b15068000a30d2d953dd092479fc6c7541087c884623051cffa72b74afcdb"
+    },
+    {
+      "path": "DATA/raw_data/BS ECE, CPE, CPES, and EES CHECKLISTS/CPE CHECKLISTS/CPE ID 118 CHECKLIST.pdf",
+      "sha256": "bc6549e006254b6a242e398ab9047f5a5c3227d3ba5a5725be716402131831d6"
+    },
+    {
+      "path": "DATA/raw_data/BS ECE, CPE, CPES, and EES CHECKLISTS/CPE CHECKLISTS/CPE ID 119 CHECKLIST.pdf",
+      "sha256": "2e68ad01c6d69ffda2dab164b7ccb874b2821f6de5b30f5b077fbc12b06fb6c5"
+    },
+    {
+      "path": "DATA/raw_data/BS ECE, CPE, CPES, and EES CHECKLISTS/CPE CHECKLISTS/CPE ID 120 CHECKLIST.pdf",
+      "sha256": "7464749be3de4547f3cd6659fc16085917ae8023a1c7631efa9cda2d55e93b53"
+    },
+    {
+      "path": "DATA/raw_data/BS ECE, CPE, CPES, and EES CHECKLISTS/CPE CHECKLISTS/CPE ID 121 CHECKLIST.pdf",
+      "sha256": "826c8248f2abb6ed4ffa138185ec458b67e6488197de0ecefb98a2dab2ff54b7"
+    },
+    {
+      "path": "DATA/raw_data/BS ECE, CPE, CPES, and EES CHECKLISTS/CPE CHECKLISTS/CPE ID 122 CHECKLIST.pdf",
+      "sha256": "11501e91768ae0017c42c53e0b5ed8925f1d153eaeb0dd54c1bb890e29636633"
+    },
+    {
+      "path": "DATA/raw_data/BS ECE, CPE, CPES, and EES CHECKLISTS/CPE CHECKLISTS/CPE ID 123 CHECKLIST.pdf",
+      "sha256": "5965ed4f2323e24acdc002ca421ecc2ffc4441a40ea9c7bb4b76eb02d06c0c3e"
+    },
+    {
+      "path": "DATA/raw_data/BS ECE, CPE, CPES, and EES CHECKLISTS/CPE CHECKLISTS/CPE ID 124 CHECKLIST.pdf",
+      "sha256": "670ecac4c91db688320236c70c7feceadea69c9b3c1f51f64bf73beed92ad4b5"
+    },
+    {
+      "path": "DATA/raw_data/BS ECE, CPE, CPES, and EES CHECKLISTS/CPE CHECKLISTS/CPE ID 125 CHECKLIST.pdf",
+      "sha256": "82134b5c3679c36a7481f29ee2b58d1cddf466e03417487e3e39426013ff2ba3"
+    },
+    {
+      "path": "DATA/raw_data/BS ECE, CPE, CPES, and EES CHECKLISTS/DS_Store",
+      "sha256": "bd129738b95ba48ba97923a6d0ff492c47ea3a75a1ca96e78efe2b4bbf045a1c"
+    },
+    {
+      "path": "DATA/raw_data/BS ECE, CPE, CPES, and EES CHECKLISTS/ECE CHECKLISTS/ECE ID 118 CHECKLIST.pdf",
+      "sha256": "e99acd257bd93d62baeaa56cec946b14a5902387583d8494a91b2ffb1cbc9e67"
+    },
+    {
+      "path": "DATA/raw_data/BS ECE, CPE, CPES, and EES CHECKLISTS/ECE CHECKLISTS/ECE ID 119 CHECKLIST.pdf",
+      "sha256": "b27728aa5565364cea002c732a9e6516f8e1aefe09240c85b0a8b2ad9f0006bf"
+    },
+    {
+      "path": "DATA/raw_data/BS ECE, CPE, CPES, and EES CHECKLISTS/ECE CHECKLISTS/ECE ID 120 CHECKLIST.pdf",
+      "sha256": "697f9f9a4d15fd7b521733673b65d7f61537200c0dceb1a0382976f45c09d652"
+    },
+    {
+      "path": "DATA/raw_data/BS ECE, CPE, CPES, and EES CHECKLISTS/ECE CHECKLISTS/ECE ID 121 CHECKLIST.pdf",
+      "sha256": "ca52d72d10ee1bf50647de1e8cea4e05c6009ae029ad73a0d03cc22d714c2603"
+    },
+    {
+      "path": "DATA/raw_data/BS ECE, CPE, CPES, and EES CHECKLISTS/ECE CHECKLISTS/ECE ID 122 CHECKLIST.pdf",
+      "sha256": "1d539deec244b68427ded9fa1fd7725211f30d97c720f392ab793365aebea22b"
+    },
+    {
+      "path": "DATA/raw_data/BS ECE, CPE, CPES, and EES CHECKLISTS/ECE CHECKLISTS/ECE ID 123 CHECKLIST.pdf",
+      "sha256": "44620663a8bbc770794144f71fbc2e187b3eb8217d979e09537fca8fcf4d70d6"
+    },
+    {
+      "path": "DATA/raw_data/BS ECE, CPE, CPES, and EES CHECKLISTS/ECE CHECKLISTS/ECE ID 124 CHECKLIST.pdf",
+      "sha256": "100a5c689db90ad28e9e76242eac1b7377fe6ff85533e78dcb4ec0d70d86b286"
+    },
+    {
+      "path": "DATA/raw_data/BS ECE, CPE, CPES, and EES CHECKLISTS/ECE CHECKLISTS/ECE ID 125 CHECKLIST.pdf",
+      "sha256": "335efd8f37471281bad413e7fdcb4c8f2718cb38e14b1ea7cbec1e84fe207874"
+    },
+    {
+      "path": "DATA/raw_data/BS ECE, CPE, CPES, and EES CHECKLISTS/EES CHECKLIST/EES ID 125 CHECKLIST.pdf",
+      "sha256": "0afee350f0b33fee0673383918c2b017f07b96dc6ca7a64da1ea375f654158fa"
+    },
+    {
+      "path": "DATA/raw_data/BS ECE, CPE, CPES, and EES CHECKLISTS/POLICY DOCUMENTS/GCOE UG OJT Policy (1).pdf",
+      "sha256": "47986e9980c7297fd5cdcdb4ace2123f6798fb4e9511083f1f8cd7fd9de96235"
+    },
+    {
+      "path": "DATA/raw_data/BS ECE, CPE, CPES, and EES CHECKLISTS/POLICY DOCUMENTS/GCOE_Academic_Advising_Best_Practices.docx",
+      "sha256": "465a78d303e7250347403565d93b7eb02bdc3a462c9cfe70e3bff5bb04883364"
+    },
+    {
+      "path": "DATA/raw_data/BS ECE, CPE, CPES, and EES CHECKLISTS/POLICY DOCUMENTS/Guidelines-for-Academic-Advising-2024_October-17-1-1 (1).pdf",
+      "sha256": "56b979171fe28afdd7b9482d235983fcb38cd8bc5c7630b0354280f793d6c41d"
+    },
+    {
+      "path": "DATA/raw_data/BS ECE, CPE, CPES, and EES CHECKLISTS/POLICY DOCUMENTS/Guidelines-for-Academic-Advising-2024_October-17-1-1.pdf",
+      "sha256": "56b979171fe28afdd7b9482d235983fcb38cd8bc5c7630b0354280f793d6c41d"
+    },
+    {
+      "path": "DATA/raw_data/BS ECE, CPE, CPES, and EES CHECKLISTS/POLICY DOCUMENTS/Thesis Policies and Guidelines_latest.docx",
+      "sha256": "3edf518b473f2b6773efd87ebe3ca695841319e0a52a6860a54e387b86e53514"
+    },
+    {
+      "path": "DATA/raw_data/source_data.py",
+      "sha256": "8f8c985386aa6f2eedf7269f47c944a8565097f56a432387ed6faab36bb717b3"
+    },
+    {
+      "path": "DATA/splits/dataset-query.xlsx",
+      "sha256": "20b646a5d339bf420259e47ce2be7aa9e5b83acf34d736f4dec194e2a485cef6"
+    },
+    {
+      "path": "DATA/splits/dataset_test.xlsx",
+      "sha256": "8e8424676ae72d1c6bae96ed026170229b35a01b2e6e3430dd8a26f41a7f1889"
+    },
+    {
+      "path": "DATA/splits/dataset_train.xlsx",
+      "sha256": "31da46e1001b646a573458d121826ca45aeb73b383f2d77d5de3476b8d58aa6f"
+    },
+    {
+      "path": "DATA/splits/split_report.txt",
+      "sha256": "d16f981945129e7b9ece0944116973636fd26ab3c67b5882399edde13e86a066"
+    },
+    {
+      "path": "PROTOTYPE_1/baseline_results.json",
+      "sha256": "6a9d1f9703114a962e483bd18e9315055af73d3441e519f10d13a4c887f88d93"
+    },
+    {
+      "path": "PROTOTYPE_1/chatbot ui.zip",
+      "sha256": "5d7c0f7502864d28709b23ca63ee7a3c268f5c5c54e4bb4c317a2f701d1a0f92"
+    },
+    {
+      "path": "PROTOTYPE_1/chatbot ui/GCOE_Academic_Advising_Best_Practices.docx",
+      "sha256": "465a78d303e7250347403565d93b7eb02bdc3a462c9cfe70e3bff5bb04883364"
+    },
+    {
+      "path": "PROTOTYPE_1/chatbot ui/Guidelines-for-Academic-Advising-2024_October-17-1-1.pdf",
+      "sha256": "56b979171fe28afdd7b9482d235983fcb38cd8bc5c7630b0354280f793d6c41d"
+    },
+    {
+      "path": "PROTOTYPE_1/chatbot ui/demo_app.py",
+      "sha256": "d562dfe8c7c953f8015efc2bbf4c71b687d548bc2309f593a4356dd0706f12f8"
+    },
+    {
+      "path": "PROTOTYPE_1/chatbot ui/frontend.html",
+      "sha256": "261548e63785a71ea97c70094486087db5964153bc3db980b63c3fd5b9146597"
+    },
+    {
+      "path": "PROTOTYPE_1/demo_app.py",
+      "sha256": "8b50814bdeaec2bf752ec06763f8549385a617200112b76d60ce498aaf6b0962"
+    },
+    {
+      "path": "PROTOTYPE_1/gemini.py",
+      "sha256": "a83777de822300cce56f390981e535faed93585cc9a0139d5adb4055fb78f071"
+    },
+    {
+      "path": "PROTOTYPE_1/huggingtree.py",
+      "sha256": "74ea880ae03ade20794bf35849579c1822db26bce5dcb6e7123ed7aafbeef13c"
+    },
+    {
+      "path": "PROTOTYPE_1/improved_rag.py",
+      "sha256": "284135e3c314086b835a6973c7ef3a40239e92aa66d845b08ae1cd91e93707b1"
+    },
+    {
+      "path": "PROTOTYPE_1/improved_rag_results.json",
+      "sha256": "c4cfbd241ed208b9aa94b12421f978e66bb8381b750bd65db8ef05d7614157db"
+    },
+    {
+      "path": "PROTOTYPE_1/naive_rag_baseline.py",
+      "sha256": "05d2a85c5f10e017b7bf10b4a32435e59d2f8d0c1a9476d73b7056c57d931a02"
+    },
+    {
+      "path": "PROTOTYPE_1/no_rag_results.json",
+      "sha256": "e6322b38bb6a1cc07460bfc6ec555133ea21a2b2c4927f434ed2fe6014cd9a94"
+    },
+    {
+      "path": "PROTOTYPE_1/standard baseline.py",
+      "sha256": "5301bce06932bc8e1b41306b080b40fd0ea4a2f3361f60446e321e6847d120fe"
+    },
+    {
+      "path": "PROTOTYPE_1/thesis-testing.code-workspace",
+      "sha256": "6c5e5c9c058e1caf1c8278a7f158ecaa049a13b4f4a87112ea6134338a872542"
+    },
+    {
+      "path": "README.md",
+      "sha256": "3885c433effa0eba30341d3b3d190b6f9a39ef96b4512c4b9427654abf9fad0e"
+    },
+    {
+      "path": "demo/demo_app.py",
+      "sha256": "6ffddb71eda763f0db38833709cf2c4aaf0c3490d9e9dc076d5a5cc9ba9973ef"
+    },
+    {
+      "path": "demo/frontend.html",
+      "sha256": "a6030edb2ff6787a959bfbd8857788311803d8c4f9e8025806f9ee4eee2cbd5e"
+    },
+    {
+      "path": "embeddings/embedding_experiment.py",
+      "sha256": "9ff311ff0a36b28efc91fab3e070b199904cc7e2605fb2c9bc2c17e636e2e509"
+    },
+    {
+      "path": "embeddings/embedding_experiment/results_raw.json",
+      "sha256": "cfe5b3ad9c858064c7fea87a39c2952d48776e464bbf8c5c2289553dcc61e4ec"
+    },
+    {
+      "path": "embeddings/embedding_experiment/results_report.txt",
+      "sha256": "847bab317744099683faae37dbd7bfa004ac0f122acf3f7a85174400c2677a3b"
+    },
+    {
+      "path": "embeddings/embedding_experiment/results_summary.json",
+      "sha256": "605e140366b0b7600d70d358ed1d489739ccb52a9c6a0cacc046769b65e9825a"
+    },
+    {
+      "path": "evaluation/gt_size_analysis.py",
+      "sha256": "5e59ef8e74597b38a959e358db2ec055b9d14c97afcb32a90ecea1e6dc990f5b"
+    },
+    {
+      "path": "evaluation/improved_rag.py",
+      "sha256": "5e308ccea066d1d38d97ab520b2566006c264f16e23efd37d4ea77c49ad0dca0"
+    },
+    {
+      "path": "evaluation/merge_norag.py",
+      "sha256": "b30f63ea574f3bbb01e64c1947aa451f4a0ce11ad59bc0893e69dbf4467aed4b"
+    },
+    {
+      "path": "evaluation/naive_rag_baseline.py",
+      "sha256": "a208b4de43a0a048fe70182c5ad3ee60f7e4596e3b2bf6781619bfda3af79cdf"
+    },
+    {
+      "path": "evaluation/rescore_phase2.py",
+      "sha256": "829c554ae6e926667c6d050fa40893704ac37cb5d6fe01437ff068a3611d6098"
+    },
+    {
+      "path": "evaluation/standard_baseline.py",
+      "sha256": "13b2834af823151ab322523f61bbb627605d320bec5eea811809e82e9b304bd7"
+    },
+    {
+      "path": "pipeline/batch_parser.py",
+      "sha256": "18746d58b336fd510b131483ef3ad3ccb4e3ce9614bdae291e8006517b7339eb"
+    },
+    {
+      "path": "pipeline/chunking_pipeline.py",
+      "sha256": "cc7fd1ec9c0112fbfe76ea84a52eb9235143feb1cb3c696b8a5dc840697ed55f"
+    },
+    {
+      "path": "pipeline/dataset_split.py",
+      "sha256": "2a99c252ce9c3a51204d8eb2e96602b7625d22550c5aa042c95f47865b5defe9"
+    },
+    {
+      "path": "pipeline/dlsu_cpe_schema.sql",
+      "sha256": "25ea91b9ad673c4cb58c21e0d88ffd9c66c0f2f7e36780c1252932e4799f8930"
+    },
+    {
+      "path": "pipeline/seed_database.py",
+      "sha256": "897c67c12cc7489636d876c8ba8220c7f28e384bb2b471d98cdda365bf289458"
+    },
+    {
+      "path": "pipeline/setup_database.py",
+      "sha256": "2e5f1ad7a950e5337184ee1a00776e0830053f11c376e3d39cdb69a2322183fc"
+    },
+    {
+      "path": "results/agentic_rag_results.json",
+      "sha256": "9a8955d509270d408788c6e93de08d6330ece3741d979632b8b42742c4c10f3d"
+    },
+    {
+      "path": "results/chart_01_progression.png",
+      "sha256": "7b64cbbcbfe4d30f8e398362aa2896d98dd77f2dedd033d4f83e1982f1ef1d4b"
+    },
+    {
+      "path": "results/chart_02_hallucination.png",
+      "sha256": "b1bedef7c45053aa117b0a494b49045172855791bc967e64aed3c0db73599f32"
+    },
+    {
+      "path": "results/chart_03_category_heatmap.png",
+      "sha256": "dadd0c815973b17aa54b28c5b5a102c4c6f5a4cb383127017b60c9dc01e4d38f"
+    },
+    {
+      "path": "results/chart_04_latency_quality.png",
+      "sha256": "3f48efe61f96b432fc1932b011f739b2d23fa45b3ee03e95e64337e7a225ebe9"
+    },
+    {
+      "path": "results/chart_05_naive_vs_improved.png",
+      "sha256": "1bf0b26e8f184333fcfa99c5164a7bf3b4881924708c4b57e4f0e9abf62216e4"
+    },
+    {
+      "path": "results/embed_01_model_comparison.png",
+      "sha256": "baa338bb1d04da40794c79862e20005a3081b5158ff6e4c8254cfee149fa4355"
+    },
+    {
+      "path": "results/embed_02_speed_quality.png",
+      "sha256": "d9cab475caecb4137aa5c0fc5a33301d2715515c9c10a7f7ffb306af994bccd8"
+    },
+    {
+      "path": "results/embed_03_category_heatmap.png",
+      "sha256": "3aa7dc52c17399e4e9b46b0466929370c0ea53896a149cc8e7b189a0168368c7"
+    },
+    {
+      "path": "results/embedding_charts.py",
+      "sha256": "818f626fffa9de8f610939bd5c69a5112cdcfd1b8c64cf5f5ec7e5ffb72a66c0"
+    },
+    {
+      "path": "results/improved_rag_phase1_results.json",
+      "sha256": "72e27bc14ebd99cc38ae59857d95db99d195c3ca0f8378e3f026857c0e5b310b"
+    },
+    {
+      "path": "results/improved_rag_phase1_results_general.json",
+      "sha256": "bea4345553bbb08c8356c6c5162da1c8cd14187f7a4a1d7df6a40f2115388345"
+    },
+    {
+      "path": "results/improved_rag_phase1_test_results.json",
+      "sha256": "423012c066ca0a7f590028338cb5c9778c6143a8b3ac1b94ee63925c4aef978a"
+    },
+    {
+      "path": "results/improved_rag_phase1_train_results.json",
+      "sha256": "832c2ae7455a3a2fc3c87c31bade23d2cf00d75890007609c485ff578c393e93"
+    },
+    {
+      "path": "results/improved_rag_phase2_test_rescored.json",
+      "sha256": "a8064bec2f46a4f0ff6ac33809e8ac499c15c0bbb2f1caee426387e87bb43954"
+    },
+    {
+      "path": "results/improved_rag_phase2_test_rescored.txt",
+      "sha256": "42578bf3a509903764a6c502c45c0a5b65e01a8bdc1f2511d48aaa022c9af2a5"
+    },
+    {
+      "path": "results/improved_rag_phase2_test_results.json",
+      "sha256": "07aa922764eea7900c8162d8e7e99533a6b3c65913461ff6f5fbc4931a385f6c"
+    },
+    {
+      "path": "results/naive_rag_results.json",
+      "sha256": "43db1516fcb0b40a5fb65e603efe29b009ef8951738ea6bbe266e8303f4cc348"
+    },
+    {
+      "path": "results/no_rag_baseline_results.json",
+      "sha256": "69b6202cb59a1628f94c42931ea73f4d0da40b00b0deb387afb73e3bd5e86b0b"
+    },
+    {
+      "path": "results/runttime_results.txt",
+      "sha256": "6343cbbe0c74e5db1dc9dc18d102ab0a518f1ecc5ad16d529a9220516bb9a41e"
+    },
+    {
+      "path": "results/split_report.txt",
+      "sha256": "d16f981945129e7b9ece0944116973636fd26ab3c67b5882399edde13e86a066"
+    },
+    {
+      "path": "results/thesis_charts.py",
+      "sha256": "4f3acfe84bef13b956a237f093eb15af5826650b6a927a020419b8c1433baf51"
+    }
+  ]
+}

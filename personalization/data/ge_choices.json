@@ -1,0 +1,107 @@
+[
+  {
+    "code": "GEARTAP",
+    "title": "Art Appreciation (2A)",
+    "units": 3,
+    "source": "CPE ID 122 CHECKLIST.pdf",
+    "rules": []
+  },
+  {
+    "code": "GEETHIC",
+    "title": "Ethics (2A)",
+    "units": 3,
+    "source": "CPE ID 122 CHECKLIST.pdf",
+    "rules": []
+  },
+  {
+    "code": "GELECAH",
+    "title": "Arts and Humanities (2B)",
+    "units": 3,
+    "source": "CPE ID 122 CHECKLIST.pdf",
+    "rules": []
+  },
+  {
+    "code": "GELECSP",
+    "title": "Social Science and Philosophy (2B)",
+    "units": 3,
+    "source": "CPE ID 122 CHECKLIST.pdf",
+    "rules": []
+  },
+  {
+    "code": "GELECST",
+    "title": "Science and Technology (2B)",
+    "units": 3,
+    "source": "CPE ID 122 CHECKLIST.pdf",
+    "rules": []
+  },
+  {
+    "code": "GEMATMW",
+    "title": "Mathematics in the Modern World (2A)",
+    "units": 3,
+    "source": "CPE ID 122 CHECKLIST.pdf",
+    "rules": []
+  },
+  {
+    "code": "GEPCOMM",
+    "title": "Purposive Communications (2A)",
+    "units": 3,
+    "source": "CPE ID 122 CHECKLIST.pdf",
+    "rules": []
+  },
+  {
+    "code": "GERIZAL",
+    "title": "Life and Works of Rizal (2B)",
+    "units": 3,
+    "source": "CPE ID 122 CHECKLIST.pdf",
+    "rules": []
+  },
+  {
+    "code": "GERPHIS",
+    "title": "Readings in the Philippine History (2A)",
+    "units": 3,
+    "source": "CPE ID 122 CHECKLIST.pdf",
+    "rules": []
+  },
+  {
+    "code": "GESTSOC",
+    "title": "Science, Technology, and Society (2A)",
+    "units": 3,
+    "source": "CPE ID 122 CHECKLIST.pdf",
+    "rules": []
+  },
+  {
+    "code": "GEUSELF",
+    "title": "Understanding the Self (2A)",
+    "units": 3,
+    "source": "CPE ID 122 CHECKLIST.pdf",
+    "rules": []
+  },
+  {
+    "code": "GEWORLD",
+    "title": "The Contemporary World (2A)",
+    "units": 3,
+    "source": "CPE ID 122 CHECKLIST.pdf",
+    "rules": []
+  },
+  {
+    "code": "LCASEAN",
+    "title": "The Filipino and ASEAN",
+    "units": 3,
+    "source": "CPE ID 122 CHECKLIST.pdf",
+    "rules": []
+  },
+  {
+    "code": "LCENWRD",
+    "title": "Encountering the Word in the World",
+    "units": 3,
+    "source": "CPE ID 122 CHECKLIST.pdf",
+    "rules": []
+  },
+  {
+    "code": "LCFAITH",
+    "title": "Faith Worth Living",
+    "units": 3,
+    "source": "CPE ID 122 CHECKLIST.pdf",
+    "rules": []
+  }
+]

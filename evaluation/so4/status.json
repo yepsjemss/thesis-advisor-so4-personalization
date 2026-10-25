@@ -1,0 +1,7 @@
+{
+  "status": "not_evaluated",
+  "target_percent": 95,
+  "eligibility_accuracy_percent": null,
+  "constraint_accuracy_percent": null,
+  "reason": "No formal independently verified SO4 decision dataset has been evaluated. RAG has not been tested for this addition."
+}

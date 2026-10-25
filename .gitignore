@@ -1,0 +1,28 @@
+# Large/generated files
+chroma_store/
+parsed_data/
+__pycache__/
+*.pyc
+
+# Sensitive
+.env
+
+advising_dataset.xlsx
+PROTOTYPE_1/thesis-testing/
+
+# Local SO4 settings, environments, accounts, reports and previews.
+.env.personalization
+.env.personalization.*
+!.env.personalization.example
+.venv-so4/
+.venv/
+.so4-instance/
+instance/
+*.log
+*.sql.gz
+*.dump
+evaluation/so4/local-results/
+evaluation/so4/*actual*.csv
+evaluation/so4/*actual*.json
+.pytest_cache/
+.vscode/

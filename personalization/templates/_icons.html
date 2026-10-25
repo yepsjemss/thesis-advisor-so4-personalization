@@ -1,0 +1,8 @@
+{% macro icon(name, cls='') -%}
+{% set symbols = {'grid': 'dashboard-2-line', 'book': 'book-open-line', 'chat': 'chat-3-line', 'help': 'question-line', 'history': 'history-line', 'arrow': 'arrow-right-line', 'arrow-up': 'arrow-right-up-line', 'check': 'checkbox-circle-line', 'cap': 'graduation-cap-line', 'calendar': 'calendar-2-line', 'spark': 'chat-3-line', 'search': 'search-line', 'logout': 'logout-box-r-line', 'menu': 'menu-2-line', 'close': 'close-line', 'lock': 'lock-2-line', 'info': 'information-line', 'send': 'send-plane-2-line', 'plus': 'add-line', 'clock': 'time-line', 'flag': 'flag-2-line', 'chevron': 'arrow-right-s-line', 'chip': 'cpu-line', 'user': 'user-3-line', 'students': 'team-line', 'graph': 'node-tree', 'document': 'file-text-line', 'chart': 'bar-chart-box-line', 'moon': 'moon-line', 'expand': 'fullscreen-line', 'download': 'download-2-line'} %}
+{% if name=='bolt' %}<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="icon icon--bolt {{ cls }}" aria-hidden="true" focusable="false" viewBox="0 0 16 16">
+  <path d="M11.251.068a.5.5 0 0 1 .227.58L9.677 6.5H13a.5.5 0 0 1 .364.843l-8 8.5a.5.5 0 0 1-.842-.49L6.323 9.5H3a.5.5 0 0 1-.364-.843l8-8.5a.5.5 0 0 1 .615-.09zM4.157 8.5H7a.5.5 0 0 1 .478.647L6.11 13.59l5.732-6.09H9a.5.5 0 0 1-.478-.647L9.89 2.41z"/>
+</svg>
+{% else %}<svg class="icon icon--{{ name }} {{ cls }}" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" focusable="false"><use href="{{ url_for('static', filename='vendor/remixicon/remixicon-selected.svg') }}#ri-{{ symbols.get(name, 'information-line') }}"></use></svg>
+{% endif %}
+{%- endmacro %}

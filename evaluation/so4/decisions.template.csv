@@ -1,0 +1,3 @@
+case_id,decision_type,expected,actual,source_reference,expected_verified
+EL-001,eligibility,,,Fill official curriculum and page,false
+CV-001,constraint,,,Fill approved unit policy and reference,false
